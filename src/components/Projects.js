@@ -29,7 +29,7 @@ const projects = [
   {
     name: "Genie AI Chatbot",
     description:
-      "An AI based customer service Chatbot used by Generis Group to direct visitors to creating access requests..",
+      "An AI based customer service Chatbot used by Generis Group to direct visitors to creating access requests.",
     tags: ["JavaScript", "Python", "FastAPI", "OpenAI API"],
     highlight: false,
   },
