@@ -9,7 +9,7 @@ export default function Contact() {
           <p className="mb-2 text-xs font-semibold tracking-widest text-blue-400 uppercase">
             Say hello
           </p>
-          <h2 className="section-heading">Get in Touch</h2>
+          <h2 className="section-heading">Get In Touch</h2>
           <div className="mx-auto section-subline" />
           <p className="mb-10 text-base leading-relaxed text-gray-400">
             Whether it's an opportunity, a collaboration, or just a chat about
